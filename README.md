@@ -48,3 +48,27 @@ Unlock the power of 10,000+ APIs and build high-impact projects across countless
 These APIs provide everything needed to build faster, innovate confidently, and turn any idea into a real-world solution.
 
 ---
+
+
+
+
+
+## Categories Table of Contents
+
+- [Agents](./Agents%20805)
+- [AI](./AI%201484)
+- [Automation](./Automation%205654)
+- [Developer_tools](./Developer_tools%203249)
+- [Ecommerce](./Ecommerce%202624)
+- [Integrations](./Integrations%20975)
+- [Jobs](./Jobs%20950)
+- [Lead_generation](./Lead_generation%203920)
+- [MCP_servers](./MCP_servers%20173)
+- [News](./News%20638)
+- [Open_source](./Open_source%20785)
+- [Real_estate](./Real_estate%20987)
+- [SEO_tools](./SEO_tools%20831)
+- [Social_media](./Social_media%203595)
+- [Travel](./Travel%20435)
+- [Videos](./Videos%201048)
+- [Other](./Other%201521)
