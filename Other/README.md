@@ -1,3 +1,7 @@
+# Other
+
+**Total APIs: 1532**
+
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
 | [Google Ads Scraper](https://apify.com/silva95gustavo/google-ads-scraper) | Extract up to 400 ads per minute along with text, image and video ads from Google Ads, scraped from the ad library provided by the Google Ads Transparency Center. Gain access to ad details, ad copy, locations and more for a faster competitive edge. | 4.69 | 2605 |

@@ -1,3 +1,7 @@
+# Videos
+
+**Total APIs: 1052**
+
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
 | [TikTok Scraper](https://apify.com/clockworks/tiktok-scraper) | Extract data from TikTok videos, hashtags, and users. Use URLs or search queries to scrape TikTok profiles, hashtags, posts, URLs, shares, followers, hearts, names, video, and music-related data. Export scraped data, run the scraper via API, schedule and monitor runs or integrate with other tools. | 4.76 | 109517 |

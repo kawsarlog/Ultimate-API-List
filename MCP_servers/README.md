@@ -1,3 +1,7 @@
+# MCP_servers
+
+**Total APIs: 178**
+
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
 | [Fast Website Content Crawler](https://apify.com/6sigmag/fast-website-content-crawler) | A high-performance web scraper that rapidly extracts and analyzes content from multiple websites simultaneously. Perfect for competitive research, content aggregation, and website structure analysis. | 4.28 | 2814 |

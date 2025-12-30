@@ -1,3 +1,7 @@
+# Automation
+
+**Total APIs: 5728**
+
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
 | [Twitter (X.com) Scraper Unlimited: No Limits](https://apify.com/apidojo/twitter-scraper-lite) | Introducing Twitter Scraper Unlimited, the most comprehensive Twitter data extraction solution available. Our enterprise-grade scraper offers unmatched capabilities with a transparent event-based pricing model, making it perfect for both small-scale and large-scale data extraction needs. | 2.89 | 14717 |
@@ -5290,6 +5294,7 @@
 | [Blingo - Blog HTML Translator with AI](https://apify.com/lofomachines/blog-html-translator) | Scrapes blog pages and translates visible text content to multiple target languages using lingo.dev AI-powered localization, preserving HTML structure. | 0.00 | 1 |
 | ["Global Health Data Scraper"](https://apify.com/teeming_zitherist/my-actor) | Extract structured medical data in seconds. Built for data scientists, researchers, and healthcare professionals. No API dependencies, 100% reliable. Export-ready JSON/CSV output with metadata. | 0.00 | 1 |
 | [N8n Template Scraper](https://apify.com/scrapier/n8n-template-scraper) | Automate n8n template data collection at scale. N8n Template Scraper pulls workflow templates, integrations, triggers, and step details. Perfect for automation planning, documentation, and workflow analysis. | null | 1 |
+| [Amazon Today's Deals Scraper](https://apify.com/scrapier/amazon-todays-deals-scraper) | Automate Amazon deal data collection with ease. Amazon Today’s Deals Scraper pulls active deals, price drops, discounts, and product details. Perfect for ecommerce research, competitive pricing, and deal aggregation workflows. | null | 1 |
 | [YouTube AI Summarizer](https://apify.com/hi_world/youtube-ai-summarizer) | A YouTube AI summarizer that delivers quick, concise video summaries to save time. Using advanced algorithms, it analyzes audio and text to extract key points, helping users understand essential information without watching the full video. | 0.00 | 1 |
 | [Trustpilot Review Scraper with AI](https://apify.com/kutaui/trustpilot-review-scraper) | Automatically scrape Trustpilot reviews at scale. Uses OpenAI to extract structured data (author, rating, date, text, country) and analyze sentiment (Positive/Neutral/Negative). Includes duplicate detection and pagination support. Perfect for reputation monitoring and customer feedback analysis. | 0.00 | 1 |
 | [Slack MCP](https://apify.com/parseforge/slack-mcp) | Model Context Protocol server that lets AI copilots list channels, pull message history, send updates, manage membership, and fetch metadata from your Slack workspace using scoped bot tokens. | 0.00 | 1 |

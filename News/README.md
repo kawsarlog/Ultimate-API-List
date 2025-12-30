@@ -1,3 +1,7 @@
+# News
+
+**Total APIs: 641**
+
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
 | [Reddit Scraper Lite](https://apify.com/trudax/reddit-scraper-lite) | Pay Per Result, unlimited Reddit web scraper to crawl posts, comments, communities, and users without login. Limit web scraping by number of posts or items and extract all data in a dataset in multiple formats. | 2.04 | 11742 |

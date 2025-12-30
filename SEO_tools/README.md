@@ -1,3 +1,7 @@
+# SEO_tools
+
+**Total APIs: 848**
+
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
 | [Google Search Results Scraper](https://apify.com/apify/google-search-scraper) | Scrape Google Search Engine Results Pages (SERPs). Select the country or language and extract organic and paid results, AI Mode, AI overviews, ads, queries, People Also Ask, prices, reviews, like a Google SERP API. Export data, run the scraper via API, schedule runs, or integrate with other tools. | 4.78 | 82463 |

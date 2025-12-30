@@ -1,3 +1,7 @@
+# Jobs
+
+**Total APIs: 952**
+
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
 | [🔥 LinkedIn Jobs Scraper](https://apify.com/bebity/linkedin-jobs-scraper) | ℹ️ Designed for both personal and professional use, simply enter your desired job title and location to receive a tailored list of job opportunities. Try it today! | 4.34 | 19757 |

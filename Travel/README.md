@@ -1,3 +1,7 @@
+# Travel
+
+**Total APIs: 436**
+
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
 | [Google Maps Scraper](https://apify.com/compass/crawler-google-places) | Extract data from thousands of Google Maps locations and businesses, including reviews, reviewer details, images, contact info, including full name, email, and job title, opening hours, prices & more. Export data, run via API, schedule and monitor runs, or integrate with other tools. | 4.75 | 236181 |

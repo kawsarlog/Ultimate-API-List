@@ -1,3 +1,7 @@
+# Open_source
+
+**Total APIs: 786**
+
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
 | [Web Scraper](https://apify.com/apify/web-scraper) | Crawls arbitrary websites using a web browser and extracts structured data from web pages using a provided JavaScript function. The Actor supports both recursive crawling and lists of URLs, and automatically manages concurrency for maximum performance. | 4.00 | 99662 |

@@ -1,3 +1,7 @@
+# Ecommerce
+
+**Total APIs: 2642**
+
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
 | [E-commerce Scraping Tool](https://apify.com/apify/e-commerce-scraping-tool) | Scrape data from e-commerce websites with E-commerce Scraping Tool. Scrape almost any retail site in minutes, extract e-commerce data and use it to monitor price details over time or compare different e-commerce sites’ offerings. | 4.21 | 2982 |
@@ -2493,6 +2497,7 @@
 | [Barcode Scans Receipt Generator](https://apify.com/babakkarimib/barcode-scans-receipt-generator) | Generates a high-quality PNG receipt with CSV output from decoded barcode scans, aggregating items by name. This actor works especially well with CSV to Barcode Generator, forming a complete barcode-to-receipt workflow. | 0.00 | 1 |
 | [Legal Document Analyzer](https://apify.com/brilliant_kimono/my-actor-1) | Analyze legal documents (PDF/DOCX) to extract clauses, identify risks, and compare contracts. Automatically detect termination, liability, IP, and 10+ other clause types. Perfect for law firms, compliance teams, and M&A due diligence. | 0.00 | 1 |
 | [Cylex UK Scraper \| UK Local Business Search](https://apify.com/vulnv/cylex-uk-scraper) | Scrape business listings from Cylex UK directory. Extracts names, addresses, phone numbers, opening hours, descriptions, categories, websites, social media, gallery images, and contact persons. | 5.00 | 1 |
+| [Amazon Today's Deals Scraper](https://apify.com/scrapier/amazon-todays-deals-scraper) | Automate Amazon deal data collection with ease. Amazon Today’s Deals Scraper pulls active deals, price drops, discounts, and product details. Perfect for ecommerce research, competitive pricing, and deal aggregation workflows. | null | 1 |
 | [Danish Grocery Scraper](https://apify.com/tan_asp/danish-grocery-scraper) | Extracts product pricing data from Danish grocery stores by intercepting API responses perfect for price comparison market research and tracking grocery prices across Denmark Get product names prices price per unit images brands and stock status with a single search simply enter a keyword | 0.00 | 1 |
 | [CSV to Barcode Generator](https://apify.com/babakkarimib/csv-to-barcode-generator) | Generates high-quality barcode PNG images from CSV rows and outputs a ZIP containing all barcodes. Supports CODE128, EAN, UPC, CODE39, ITF, MSI, Codabar, Pharmacode, and CODE93. Use it as a first step with Barcode Scans to Receipt Generator to create printable receipts. | 0.00 | 1 |
 | [The eCommerce Product Enhancer](https://apify.com/anointment/the-ecommerce-product-enhancer) | Turns boring product pages into high-converting sales machines. Scrapes your URL, analyzes the product, and rewrites the description using Neuromarketing and Cialdini's principles of persuasion. | 0.00 | 1 |

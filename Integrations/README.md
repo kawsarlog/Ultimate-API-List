@@ -1,3 +1,7 @@
+# Integrations
+
+**Total APIs: 985**
+
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
 | [G2 Product Reviews Scraper](https://apify.com/powerai/g2-product-reviews-scraper) | Scrape product reviews and customer feedback from G2 for software products using our API wrapper service | 5.00 | 299 |

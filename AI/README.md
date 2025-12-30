@@ -1,3 +1,7 @@
+# AI
+
+**Total APIs: 1497**
+
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
 | [Website Content Crawler](https://apify.com/apify/website-content-crawler) | Crawl websites and extract text content to feed AI models, LLM applications, vector databases, or RAG pipelines. The Actor supports rich formatting using Markdown, cleans the HTML, downloads files, and integrates well with 🦜🔗 LangChain, LlamaIndex, and the wider LLM ecosystem. | 4.63 | 93574 |

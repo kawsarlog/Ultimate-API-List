@@ -1,3 +1,7 @@
+# Real_estate
+
+**Total APIs: 990**
+
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
 | [Zillow Detail Scraper](https://apify.com/maxcopell/zillow-detail-scraper) | Get details of Zillow properties from URLs. This Actor can be easily integrated with other Zillow Scrapers. | 4.25 | 3549 |

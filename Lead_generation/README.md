@@ -1,3 +1,7 @@
+# Lead_generation
+
+**Total APIs: 3979**
+
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
 | [Google Maps Scraper](https://apify.com/compass/crawler-google-places) | Extract data from thousands of Google Maps locations and businesses, including reviews, reviewer details, images, contact info, including full name, email, and job title, opening hours, prices & more. Export data, run via API, schedule and monitor runs, or integrate with other tools. | 4.75 | 236181 |
@@ -3719,6 +3723,7 @@
 | [Apify → Airtable Results Pusher](https://apify.com/robertsong13/apify---airtable-results-pusher) | Push results from the most recent Apify task run directly into Airtable Table. Deduplicated and production-ready. | 0.00 | 1 |
 | [Cylex UK Scraper \| UK Local Business Search](https://apify.com/vulnv/cylex-uk-scraper) | Scrape business listings from Cylex UK directory. Extracts names, addresses, phone numbers, opening hours, descriptions, categories, websites, social media, gallery images, and contact persons. | 5.00 | 1 |
 | [N8n Template Scraper](https://apify.com/scrapier/n8n-template-scraper) | Automate n8n template data collection at scale. N8n Template Scraper pulls workflow templates, integrations, triggers, and step details. Perfect for automation planning, documentation, and workflow analysis. | null | 1 |
+| [Amazon Today's Deals Scraper](https://apify.com/scrapier/amazon-todays-deals-scraper) | Automate Amazon deal data collection with ease. Amazon Today’s Deals Scraper pulls active deals, price drops, discounts, and product details. Perfect for ecommerce research, competitive pricing, and deal aggregation workflows. | null | 1 |
 | [Airtable Lead Enricher](https://apify.com/datahq/airtable-lead-enricher) | Stop manual lead research. This actor enriches your Airtable leads with contact data and AI scores, then updates your base. | 0.00 | 1 |
 | [AI Cold Outreach Personalization](https://apify.com/happitap/ai-cold-outreach-personalization) | Transform cold outreach with AI-powered personalization. This Actor scrapes lead data from websites and generates highly personalized cold emails, LinkedIn DMs, and WhatsApp messages at scale. Stop sending generic messages—let AI research each lead and craft personalized outreach for you. | 0.00 | 1 |
 | [Unified Serper.dev ETL Processor](https://apify.com/tuguidragos/unified-serper-dev-etl-processor) | Find businesses via Google Maps, enrich via Google Search. Uses Serper.dev to sweep cities with geo-grids, then runs customizable search queries to find owners, LinkedIn profiles, or any data you need. Apply quality filters and export clean, deduplicated leads ready for outreach. | 5.00 | 1 |
