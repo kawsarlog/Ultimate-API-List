@@ -1,6 +1,6 @@
 # Videos
 
-**Total APIs: 1052**
+**Total APIs: 1054**
 
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
@@ -1012,10 +1012,12 @@
 | [TikTok Video Scraper (No Login Required)](https://apify.com/data-slayer/tiktok-api-search-video) | Extract TikTok video metadata and engagement metrics anonymously. No login required, instant export to multiple formats for seamless data integration. | 0.00 | 1 |
 | [Youtube video summarizer](https://apify.com/linen_snack/youtube-video-summarizer) | YouTube Video Summarizer - Transform any YouTube video into intelligent AI-powered summaries. Extract subtitles and generate comprehensive text summaries using OpenAI's latest GPT models. Perfect for content research, education, and productivity. | 0.00 | 1 |
 | [YouTube AI Summarizer](https://apify.com/hi_world/youtube-ai-summarizer) | A YouTube AI summarizer that delivers quick, concise video summaries to save time. Using advanced algorithms, it analyzes audio and text to extract key points, helping users understand essential information without watching the full video. | 0.00 | 1 |
+| [Tiktok Comments Scraper](https://apify.com/scrapier/tiktok-comments-scraper) | Automate TikTok comment collection with ease. TikTok Comments Scraper pulls full comment threads, likes, authors, and posting times. Perfect for trend analysis, brand monitoring, sentiment tracking, and data-driven content research. | null | 1 |
 | [🌍 Youtube Subtitle Translator](https://apify.com/dz_omar/youtube-subtitle-translator) | Extract YouTube transcripts and translate into 20+ languages using Lingo.dev AI. Get professional SRT subtitle files with perfect timing. For content creators, educators, and global audiences. Batch processing supported. | 0.00 | 1 |
 | [SMART Youtube Comments Scraper (Pay per result)](https://apify.com/smart_api/youtube-comments-scraper) | Extract YouTube comments instantly with author names, likes, replies, and complete data in just a few clicks! 🚀 | 0.00 | 1 |
 | [Tiktok Video Extractor (Rich Metadata) cookieless](https://apify.com/patient_discovery/tiktok-api-search-video) | Extract comprehensive TikTok video metadata including hidden engagement metrics, timestamps, creator IDs, and granular interaction data. High-fidelity, structured extraction tool designed for advanced sales intelligence and competitive analysis. | 0.00 | 1 |
 | [TikTok Video Export to Excel (cookieless)](https://apify.com/monumental_world/tiktok-api-search-video) | Instantly turn TikTok video metadata and engagement metrics into an Excel or CSV report. No coding required—perfect for sales intelligence and competitive research. | 0.00 | 1 |
+| [Tiktok Comments Scraper](https://apify.com/api-empire/tiktok-comments-scraper) | TikTok Comments Scraper helps you extract structured comment data from public videos. Retrieve comment text, usernames, likes, and replies efficiently. Designed for social listening, research, and large-scale data extraction. | null | 1 |
 | [TikTok Viral AI Hunter](https://apify.com/adray_soft/tiktok-viral-ai-hunter) | Finds VIRAL TikTok videos (>100k views) and analyzes them with Gemini 2.5 AI. Extracts Visual Hooks, Audio Strategy, and Script Structure from the actual video file. | 0.00 | 1 |
 | [Instagram video downloader](https://apify.com/pocesar/download-instagram-video) | Download Instagram videos in bulk | 1.00 | 849 |
 | [🔥 Unlimited SocialBlade YouTube API](https://apify.com/wantweg/socialblade-youtube-api) | Easily get daily, weekly, or monthly historical subscriber, view and video counts for YouTube channels. Combined with comprehensive channel metadata, including social media (Instagram, TikTok, X (Twitter)) usernames, ranking, content category and country. Blazing fast and unlimited API! | 0.00 | 33 |

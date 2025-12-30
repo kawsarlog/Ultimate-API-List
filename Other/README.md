@@ -1,6 +1,6 @@
 # Other
 
-**Total APIs: 1532**
+**Total APIs: 1533**
 
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
@@ -1411,6 +1411,7 @@
 | [Service Area Mapper](https://apify.com/alizarin_refrigerator-owner/service-area-mapper) | Plan & optimize your service territories w/detailed ZIP code analysis. Understand population, income levels, & competitor saturation to make data-driven expansion decisions. Territory Planning, Franchise Mapping, Market Expansion, Route Optimization, Competitor Analysis & Marketing Targeting | 0.00 | 1 |
 | [Iskur Ilan Scraper Email](https://apify.com/sevimliai/iskur-ilan-scraper-email) | Türkiye İŞKUR (İş ve İşçi Bulma Kurumu) sisteminden otomatik olarak iş ilanlarını çeken ve email ile bildirim gönderen Apify Actor'ü. | 0.00 | 1 |
 | [Flight Tracker Actor live](https://apify.com/syntellect_ai/flight-tracker-actor) | with the Flight Tracker Actor live you can Track live flights, monitor airports, and gather aviation data using the AviationStack API. | 0.00 | 1 |
+| [N8n Template Scraper](https://apify.com/api-empire/n8n-template-scraper) | N8n Template Scraper helps you extract structured data from public n8n templates. Retrieve workflow details, integrations, and descriptions efficiently. Designed for automation teams, researchers, and system builders. | null | 1 |
 | [Upwork Post Details Scraper](https://apify.com/arlusm/upwork-post-details-scraper) | This scraper takes direct Upwork job post URLs and extracts information such as job title, budget, description, and client data. It can optionally use a proxy server from a specified country. The results are provided in a structured JSON format for easy analysis or further processing. | 1.00 | 88 |
 | [Indeed Job Scraper](https://apify.com/newbs/Indeed-Job-Scraper) | Indeed Job Scraper fetches detailed job listings from Indeed. Specify job criteria and get comprehensive job data like title, salary, location, and more. Ideal for job seekers and recruiters. Enhance your job search on Indeed with valuable insights. | 2.20 | 441 |
 | [Yelp Scraper](https://apify.com/widbox/yelp-scraper) | The Yelp-Reviews-Scraper, Apify platform based scraper, enables the collection of reviews directly from Yelp's business pages. This tool is designed to retrieve comprehensive business information, user ratings, and customer feedback without the necessity of utilizing Yelp's official API. | 5.00 | 85 |

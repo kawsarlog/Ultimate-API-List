@@ -1,6 +1,6 @@
 # Developer_tools
 
-**Total APIs: 3282**
+**Total APIs: 3284**
 
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
@@ -3033,6 +3033,7 @@
 | [Sever Hosting and Tools](https://apify.com/am_production/instagram-dm-seeker) | null | 0.00 | 1 |
 | [Figma Mcp Server](https://apify.com/constant_quadruped/figma-mcp-server) | Extract Figma designs for AI coding agents. Get layout, styles, variables, and screenshots from any Figma file. Generate React, Vue, Svelte, Flutter, or SwiftUI code. 11 MCP tools for design-to-code workflows. Supports design tokens, component mapping, and FigJam diagrams. | 0.00 | 1 |
 | [Prompt Engineering Helper](https://apify.com/scraper_guru/prompt-engineering-helper) | Transform basic prompts into optimized LLM prompts using 12 research-proven templates. Works with ChatGPT, Claude, GPT-4, and any LLM. | 0.00 | 1 |
+| [Google Play Email Scraper](https://apify.com/api-empire/google-play-email-scraper) | Automatically extract public developer emails using Google Play Email Scraper. Collect contact information, app titles, categories, and ratings to streamline outreach and app market analysis. | null | 1 |
 | [AI Image Intelligence](https://apify.com/marielise.dev/ai-image-intelligence) | Make every image work harder for your business. Auto-generate SEO-optimized metadata, accessibility-compliant alt text, and rich descriptions using AI. Perfect for e-commerce, content sites, and stock agencies processing hundreds of images daily. $0.01/image. | 0.00 | 1 |
 | [GPU Hunter](https://apify.com/superscrat/gpu-arbitrage-mcp) | Real-time GPU price discovery across RunPod, Lambda Labs, and Vast.ai. Find the cheapest H100,  A100, and RTX 4090 instances instantly. AI-optimized output with value scoring helps agents make smart procurement decisions. Perfect for ML training, inference workloads, and cost optimization. | 0.00 | 1 |
 | [Google Play Email Scraper](https://apify.com/scrapier/google-play-email-scraper) | Google Play Email Scraper helps you scrape public developer emails from Google Play apps at scale. Export structured contact details for lead lists, competitor analysis, and mobile ecosystem research projects. | null | 1 |
@@ -3065,6 +3066,7 @@
 | [Flight Tracker Actor live](https://apify.com/syntellect_ai/flight-tracker-actor) | with the Flight Tracker Actor live you can Track live flights, monitor airports, and gather aviation data using the AviationStack API. | 0.00 | 1 |
 | [Ticketmaster API Event Scraper](https://apify.com/primeparse/ticketmaster-api-event-scraper) | Official Ticketmaster Discovery API scraper – reliably extracts concerts, sports, theater & arts events. No web scraping, blocks or proxies. Filter by city, category & dates. Get name, date, venue, prices, images & URLs. Fast, rate-limited. Ideal for event aggregators, ticketing apps & AI datasets. | 0.00 | 1 |
 | [Figma MCP Server](https://apify.com/aman_raj/figma-mcp-server) | Extract data from Figma designs using AI. Connect your Figma account to analyze files, export assets, extract components and styles, and manage comments programmatically. | 0.00 | 1 |
+| [Google Play Store App Search Scraper](https://apify.com/api-empire/google-play-store-app-search-scraper) | Automatically scrape Google Play Store search results with Google Play Store App Search Scraper. Capture app listings, developer names, ratings, and popularity metrics to support ASO research, product validation, and growth analysis. | null | 1 |
 | [Google Indexer & Instant SEO Submitter](https://apify.com/eunit/google-indexing) | Instantly index your URLs with the Google Indexing API. Automate sitemap submissions, speed up crawling, and boost SEO rankings. Perfect for fresh content, bulk indexing, and removing dead links. Fast, secure, and pay-per-result! | 5.00 | 1 |
 | [Doc To Markdown MCP Server](https://apify.com/abotapi/doc-to-markdown-mcp) | An MCP server that converts documents to clean Markdown. Convert PDFs, Word docs, Excel spreadsheets, PowerPoints, HTML, images, and more to AI-friendly Markdown format. | 0.00 | 1 |
 | [Github Repo Insight](https://apify.com/welcoming_fireplace/github-repo-insight) | Instantly analyze any GitHub repository. This tool uses AI to map the file structure, identify the tech stack, and generate a comprehensive "Developer Briefing." Perfect for understanding new codebases in seconds without reading every file. | 5.00 | 1 |
