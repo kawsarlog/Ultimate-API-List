@@ -58,22 +58,4 @@ These APIs provide everything needed to build faster, innovate confidently, and 
 
 
 
-## Categories Table of Contents
 
-- [Agents](./Agents%20806)
-- [AI](./AI%201487)
-- [Automation](./Automation%205656)
-- [Developer_tools](./Developer_tools%203251)
-- [Ecommerce](./Ecommerce%202623)
-- [Integrations](./Integrations%20975)
-- [Jobs](./Jobs%20950)
-- [Lead_generation](./Lead_generation%203923)
-- [MCP_servers](./MCP_servers%20173)
-- [News](./News%20638)
-- [Open_source](./Open_source%20786)
-- [Real_estate](./Real_estate%20987)
-- [SEO_tools](./SEO_tools%20834)
-- [Social_media](./Social_media%203598)
-- [Travel](./Travel%20436)
-- [Videos](./Videos%201048)
-- [Other](./Other%201522)
