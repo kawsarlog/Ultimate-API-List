@@ -1,6 +1,6 @@
 # Developer_tools
 
-**Total APIs: 3307**
+**Total APIs: 3308**
 
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
@@ -3037,6 +3037,7 @@
 | [Sever Hosting and Tools](https://apify.com/am_production/instagram-dm-seeker?fpr=data) | null | 0.00 | 1 |
 | [Figma Mcp Server](https://apify.com/constant_quadruped/figma-mcp-server?fpr=data) | Extract Figma designs for AI coding agents. Get layout, styles, variables, and screenshots from any Figma file. Generate React, Vue, Svelte, Flutter, or SwiftUI code. 11 MCP tools for design-to-code workflows. Supports design tokens, component mapping, and FigJam diagrams. | 0.00 | 1 |
 | [Prompt Engineering Helper](https://apify.com/scraper_guru/prompt-engineering-helper?fpr=data) | Transform basic prompts into optimized LLM prompts using 12 research-proven templates. Works with ChatGPT, Claude, GPT-4, and any LLM. | 0.00 | 1 |
+| [Coinhawk Price Engine](https://apify.com/natalietdg/coinhawk-price-engine?fpr=data) | High-accuracy crypto price aggregation from CEX, DEX, and Solana AMMs. Validates prices across sources, detects outliers, and returns confidence-scored real-time and historical pricing data. | null | 1 |
 | [Google Play Email Scraper](https://apify.com/api-empire/google-play-email-scraper?fpr=data) | Automatically extract public developer emails using Google Play Email Scraper. Collect contact information, app titles, categories, and ratings to streamline outreach and app market analysis. | null | 1 |
 | [Google Play Store App Search Scraper](https://apify.com/simpleapi/google-play-store-app-search-scraper?fpr=data) | Google Play Store App Search Scraper provides clean app data from Play Store search queries. Extract rankings, ratings, install ranges, and app details for competitive research, trend monitoring, and mobile app strategy planning. | null | 1 |
 | [AI Image Intelligence](https://apify.com/marielise.dev/ai-image-intelligence?fpr=data) | Make every image work harder for your business. Auto-generate SEO-optimized metadata, accessibility-compliant alt text, and rich descriptions using AI. Perfect for e-commerce, content sites, and stock agencies processing hundreds of images daily. $0.01/image. | 0.00 | 1 |

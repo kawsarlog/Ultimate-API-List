@@ -1,6 +1,6 @@
 # Integrations
 
-**Total APIs: 991**
+**Total APIs: 993**
 
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
@@ -921,6 +921,7 @@
 | [Weather Forecast Actor](https://apify.com/aligned_sassafras/weather-forecast-actor?fpr=data) | null | 0.00 | 1 |
 | [landingai-ade-extractor](https://apify.com/clever_fashion/landingai-ade-extractor?fpr=data) | Official LandingAI Agentic Document Extraction (ADE) wrapper for Apify. Turn any PDF or image (invoices, receipts, IDs, forms, contracts, passports) into perfect structured JSON in seconds – no prompt engineering needed. | 0.00 | 1 |
 | [Messaging Platform MCP Server](https://apify.com/alizarin_refrigerator-owner/messaging-mcp-server?fpr=data) | Model Context Protocol (MCP) server providing unified access to Discord, Slack, Telegram & WhatsApp messaging. Perfect for AI assistants that need to send notifications, alerts or messages across platforms. Multi-Platform Support, Unified Interface, MCP Compatible, Rich Messages Embeds Demo Mode | 0.00 | 1 |
+| [Coinhawk Price Engine](https://apify.com/natalietdg/coinhawk-price-engine?fpr=data) | High-accuracy crypto price aggregation from CEX, DEX, and Solana AMMs. Validates prices across sources, detects outliers, and returns confidence-scored real-time and historical pricing data. | null | 1 |
 | [Apify → Clay Results Pusher](https://apify.com/robertsong13/apify---clay-results-pusher?fpr=data) | Push results from the most recent Apify task run directly into Clay Webhook. Deduplicated and production-ready. | 0.00 | 1 |
 | [Apify → Airtable Results Pusher](https://apify.com/robertsong13/apify---airtable-results-pusher?fpr=data) | Push results from the most recent Apify task run directly into Airtable Table. Deduplicated and production-ready. | 0.00 | 1 |
 | [NBA API - Basketball Statistics](https://apify.com/alizarin_refrigerator-owner/nba-api---basketball-statistics?fpr=data) | Fetch comprehensive NBA basketball data including teams, players, standings, schedules, game statistics, fantasy projections, & betting odds. 30 NBA Teams, Rosters, Team Statistics, League Standings, Player Statistics, Game Statistics, Schedule, League Leaders, Fantasy Projections, Betting Odds | null | 1 |
@@ -936,6 +937,7 @@
 | [Youtube Link Hunter: Bulk Website To Youtube Mapper](https://apify.com/6sigmag/youtube-link-hunter-bulk-website-to-youtube-mapper?fpr=data) | Transform website URLs into valuable Youtube Link in bulk. Automatically extract domains and find associated Youtube accounts for powerful lead generation, competitor analysis, and market research. Save hours of manual work with this efficient automation tool. | 0.00 | 1 |
 | [Soctrend Ai](https://apify.com/algorithms-johnson/soctrend-ai?fpr=data) | SocTrend AI tracks trending posts on TikTok and X, analyzes engagement patterns, and reveals rising viral content in real time. Perfect for creators, marketers, and businesses who want to move faster than the algorithm. | 0.00 | 1 |
 | [WordPress Universal Content Bridge](https://apify.com/visita/wordpress-universal-content-bridge?fpr=data) | The WordPress Universal Content Bridge is a specialized tool designed to solve the #1 problem in WordPress automation: Firewalls. Securely import AI articles, WooCommerce products, and Directory listings without getting blocked. | 0.00 | 1 |
+| [Best AI Text Humanizer - Natural Sounding AI Content](https://apify.com/sian.agency/best-ai-text-humanizer-natural-ai-content-writer?fpr=data) | 🚀 Transform robotic AI text into human-like content with 5 writing styles. Launching offer: First month at $0.001/char (PAID) or $0.01/char (FREE). Perfect for content creators, marketers, and students. | null | 1 |
 | [PixeL](https://apify.com/jnsougata/pixel?fpr=data) | An Actor that monitors YouTube channel and posts notifications to a Discord when new videos are uploaded. | 0.00 | 1 |
 | [Lingo.dev Localizer](https://apify.com/igolaizola/lingo-dev-localizer?fpr=data) | Translate a single JSON/YAML/plain-text file into multiple languages using lingo.dev. Provide a URL, upload, or paste content and get one dataset row per language with translated text or a download URL. Perfect for fast i18n workflows, CI automation, and asset localization. | 0.00 | 1 |
 | [TikTok Profile Hunter: Bulk Website To TikTok Mapper](https://apify.com/6sigmag/tiktok-profile-hunter-bulk-website-to-tiktok-mapper?fpr=data) | Transform website URLs into valuable TikTok business profiles in bulk. Automatically extract domains and find associated TikTok accounts for powerful lead generation, competitor analysis, and market research. Save hours of manual work with this efficient automation tool. | 0.00 | 1 |
