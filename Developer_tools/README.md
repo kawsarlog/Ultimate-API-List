@@ -1,6 +1,6 @@
 # Developer_tools
 
-**Total APIs: 3934**
+**Total APIs: 3935**
 
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
@@ -3614,6 +3614,7 @@
 | [Edmunds Used Cars Search Scraper](https://apify.com/ecomscrape/edmunds-used-cars-search-scraper?fpr=data) | Automate used car data extraction from Edmunds.com with detailed vehicle information, pricing, dealer details, and vehicle history. Perfect for automotive market research, inventory analysis, pricing intelligence, and competitive dealership monitoring. | null | 1 |
 | [Discord Forum To Website](https://apify.com/code-node-tools/discord-forum-to-website?fpr=data) | Transform your Discord forum channels into beautiful, SEO-optimized static websites with customizable templates and one-click deployment to Vercel, Netlify, or GitHub Pages. | 0.00 | 1 |
 | [DevTrends MCP](https://apify.com/peghin/devtrends-mcp?fpr=data) | Real-time developer intelligence for AI coding assistants. Instant library health checks (npm, GitHub stars, maintenance status), trending technologies, security vulnerabilities, job market demand + best practices. Perfect 4 ChatGPT, Claude, Cursor, GitHub & AI tools. Official APIs. 100% compliant. | 0.00 | 1 |
+| [AI News API & Aggregator](https://apify.com/code-node-tools/ai-news-updates-api?fpr=data) | AI news API and aggregator. Get latest AI news today from 30+ sources including ArXiv, TechCrunch, Reddit, and research labs. Filter by keywords, categories, and time range. | null | 1 |
 | [Bing Maps Scraper Extract Local Business Data](https://apify.com/alizarin_refrigerator-owner/bing-maps-scraper-extract-local-business-data?fpr=data) | Google Maps gets all the attention, but Bing Maps has unique business data. Many businesses are listed on Bing but not Google & B2B companies.  The Bing Maps Scraper extracts business listings including: Business details Location data Contact information Ratings & reviews Business hours Photos | null | 1 |
 | [CoinMarketCap scraper \| Fast & reliable](https://apify.com/adventurous_nut/coinmarketcap-scraper-fast-reliable?fpr=data) | 🚀 Fast & reliable CoinMarketCap scraper supporting Trending, Top, Most Visited & New coins. Extract rich crypto data including price, volume, market cap, % change, CMC rank, supply & more. Ideal for traders, analysts, bots & dashboards. | 0.00 | 1 |
 | [Youtube Niche Channel Finder 100% Results](https://apify.com/badruddeen/youtube-niche-channel-finder-100-results?fpr=data) | Discover top YouTube channels in any niche instantly. Enter a keyword and your YouTube API key — this Actor fetches channel info like subscribers, views, videos, country, and description. Perfect for influencer research, competitor analysis, and market insights. | 0.00 | 1 |

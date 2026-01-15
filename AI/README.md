@@ -1,6 +1,6 @@
 # AI
 
-**Total APIs: 1681**
+**Total APIs: 1683**
 
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
@@ -1449,6 +1449,7 @@
 | [Yc Pitch Deck Generator](https://apify.com/okpoorav/yc-pitch-deck-generator?fpr=data) | Generate professional Y-Combinator style pitch decks in seconds using AI. Just enter your startup details and get a polished 9-slide deck in HTML, PDF, or PowerPoint format | 0.00 | 1 |
 | [AI Video To Voiceover Generator](https://apify.com/peaceful_pushpins/AI-Video-to-Voiceover-Generator?fpr=data) | This Actor uses AI orchestration to turn short product videos into high-quality, ready-to-use voiceover ads. It analyzes visual moments, generates multiple creative ad scripts, and delivers polished audio variants—so you can launch campaigns faster with zero manual effort. | null | 1 |
 | [DevTrends MCP](https://apify.com/peghin/devtrends-mcp?fpr=data) | Real-time developer intelligence for AI coding assistants. Instant library health checks (npm, GitHub stars, maintenance status), trending technologies, security vulnerabilities, job market demand + best practices. Perfect 4 ChatGPT, Claude, Cursor, GitHub & AI tools. Official APIs. 100% compliant. | 0.00 | 1 |
+| [AI News API & Aggregator](https://apify.com/code-node-tools/ai-news-updates-api?fpr=data) | AI news API and aggregator. Get latest AI news today from 30+ sources including ArXiv, TechCrunch, Reddit, and research labs. Filter by keywords, categories, and time range. | null | 1 |
 | [Clickup Mcp Server](https://apify.com/minute_contest/clickup-mcp-server?fpr=data) | Connect AI assistants to ClickUp via MCP. 20 tools for tasks, spaces, folders, lists, views, docs. Works with Claude, ChatGPT, n8n workflows | 0.00 | 1 |
 | [YouTube Channel Comments Scraper](https://apify.com/gold_harbor/my-actor?fpr=data) | Extract public YouTube comments (author, text, likes, time, avatar, video). No API key. Outputs CSV/JSON. Free tier + paid per 1000 comments. | null | 1 |
 | [Runtime Localization Middleware for UI Systems](https://apify.com/aurumworks/runtime-localization-middleware-for-ui-systems?fpr=data) | A "localization middleware" that takes your source language interface strings and converts them into production-ready localized files for any target language. | 0.00 | 1 |
@@ -1659,6 +1660,7 @@
 | [RAG Pipeline Data Collector](https://apify.com/scraper_guru/rag-pipeline-data-collector?fpr=data) | AI-ready web content extraction for RAG systems, LLMs, and AI agents. Single-page or multi-page scraping with parallel processing. | 0.00 | 1 |
 | [Success](https://apify.com/powerful_platypus/Success?fpr=data) | AI for assistance | 0.00 | 1 |
 | [N8n Mcp Actor](https://apify.com/direct_duty/n8n-mcp-actor?fpr=data) | Bridge between n8n workflows and Model Context Protocol (MCP) servers. | 0.00 | 1 |
+| [Reddit Intelligence Scraper](https://apify.com/nikhuge/reddit-intelligence-scraper?fpr=data) | Reddit is one of the largest real-time sources of consumer opinions, trends, and product feedback. Reddit Intelligence Scraper is an advanced Apify Actor built to turn Reddit into a powerful business, research, and growth-hacking intelligence engine. | null | 1 |
 | [Spielberg](https://apify.com/greg_turri/spielberg?fpr=data) | Create your cast of Actors with one prompt | 0.00 | 1 |
 | [Buildbench Advisor](https://apify.com/wild_equipment/buildbench-advisor?fpr=data) | null | 0.00 | 1 |
 | [GitHub Repo to Text Converter](https://apify.com/express_kingfisher/github-repo-to-text?fpr=data) | Convert an entire public GitHub repository into a single .txt file. Optimize your developer workflow by giving LLMs full context of a codebase in one paste. | 0.00 | 1 |

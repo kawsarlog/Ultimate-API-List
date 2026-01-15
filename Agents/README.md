@@ -1,6 +1,6 @@
 # Agents
 
-**Total APIs: 883**
+**Total APIs: 884**
 
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
@@ -872,6 +872,7 @@
 | [hoteldatascraper](https://apify.com/yowling_qualifier/hotelscraper?fpr=data) | null | 0.00 | 1 |
 | [vion-web-agent](https://apify.com/kopinath/vion-web-agent?fpr=data) | Automate almost any website using natural language. Enter a URL, describe the task, and VION navigates, clicks, and extracts data like a real user. Works on dashboards, logins, and SaaS tools. Fast, reliable, and 10x cheaper than RPA. | 0.00 | 1 |
 | [Ghidra MCP Actor](https://apify.com/syntellect_ai/ghidra-mcp-actor?fpr=data) | Apify Actor that integrates the NSA’s Ghidra reverse engineering tool with the Model Context Protocol (MCP) to enable AI-assisted binary analysis. This actor will automatically decompile a provided binary in headless mode and expose a set of tools (functions) that an AI agent can invoke (via MCP) | 0.00 | 1 |
+| [Reddit Intelligence Scraper](https://apify.com/nikhuge/reddit-intelligence-scraper?fpr=data) | Reddit is one of the largest real-time sources of consumer opinions, trends, and product feedback. Reddit Intelligence Scraper is an advanced Apify Actor built to turn Reddit into a powerful business, research, and growth-hacking intelligence engine. | null | 1 |
 | [Like Post for Linkedin](https://apify.com/addeus/like-post?fpr=data) | Automate engagement on LinkedIn by reacting to specific posts. Supports all reaction types (Like, Celebrate, Love, Insightful, etc.) to mimic human behavior. Uses Playwright and residential proxies for a secure and stealthy execution. | 0.00 | 1 |
 | [Spielberg](https://apify.com/greg_turri/spielberg?fpr=data) | Create your cast of Actors with one prompt | 0.00 | 1 |
 | [Buildbench Advisor](https://apify.com/wild_equipment/buildbench-advisor?fpr=data) | null | 0.00 | 1 |

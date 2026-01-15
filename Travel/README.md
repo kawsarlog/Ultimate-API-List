@@ -1,6 +1,6 @@
 # Travel
 
-**Total APIs: 486**
+**Total APIs: 485**
 
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
@@ -469,7 +469,6 @@
 | [Airbnb Host Details Scraper](https://apify.com/creation/airbnb-host-details-scraper?fpr=data) | Extracted data includes an Airbnb host’s ID, name, profile picture, languages spoken, hosting experience, number of listings, property URLs, average rating, and total reviews. This helps analyze host activity, listing trends, and performance metrics efficiently. 🚀 | 0.00 | 30 |
 | [Trip.com Hotel Data Scraper with Advanced Filters](https://apify.com/hotels-scrapers/trip-hotel-scraper?fpr=data) | Powerful Trip.com hotel/accomendation data scraper & API. Collect prices (original, current, total), ratings, reviews, room types, amenities, images, promotions. Apply advanced filters, monitor markets, build dashboards, or call via REST & schedule. Exports JSON or CSV fast. | 1.38 | 30 |
 | [MileageFinderAA](https://apify.com/alanmatheus187/aa-teste?fpr=data) | MileageFinderAA: API para consultar passagens com milhas da AA. Busque voos por origem, destino, datas e classe, obtendo horários, escalas, milhas e taxas. Ideal para planejar viagens ou automatizar resgates. | 0.00 | 28 |
-| [Groupon Scraper](https://apify.com/real_spidery/groupon-scraper?fpr=data) | Extract simple & full Groupon.com data to find great deals, coupons, discounts, promotion on all the best activities & things to do and save up to 70% on local restaurants, shopping, events & more. Export scraped data, run the scraper via API, schedule and monitor runs or integrate with other tools | 0.00 | 27 |
 | [Redfin Explorer](https://apify.com/jupri/redfin-scraper?fpr=data) | Scrape REDFIN.com Real Estates | 0.00 | 22 |
 | [Google Maps Reviews Scraper](https://apify.com/crawlerbros/google-maps-reviews-scraper?fpr=data) | Extract detailed reviews from any Google Maps business page. This scraper retrieves reviewer information, ratings, review text, dates, likes, and owner responses. | 5.00 | 19 |
 | [Trip.com Hotel Scraper](https://apify.com/shinkiro.h/trip-hotel-scraper?fpr=data) | Crawl hotel data from Trip.com. You can search by a city, a specific hotel, or a point of interest (POI).From this actor, you can obtain basic information such as the hotel’s name and location, as well as price, currency, images, reviews, ratings, and more. | 5.00 | 18 |

@@ -1,6 +1,6 @@
 # Ecommerce
 
-**Total APIs: 2929**
+**Total APIs: 2928**
 
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
@@ -2824,7 +2824,6 @@
 | [Google Maps Reviews Scraper](https://apify.com/poidata/google-maps-reviews-scraper?fpr=data) | Extract Google Maps reviews with ease! Scrape reviews from any Google Maps listing using Place IDs or URLs. Get ratings, text, photos, timestamps, and user data. Perfect for market research, sentiment analysis, and business intelligence. Supports bulk processing and flexible sorting options. | 0.00 | 29 |
 | [Python Event Webscraper](https://apify.com/omkwaita98/my-actor?fpr=data) | null | 0.00 | 28 |
 | [Mass Lazada Product Detail Pages Crawler](https://apify.com/lazpee.com/mass-lazada-product-detail-pages-crawler?fpr=data) | You should change proxy to the right country of  Lazada Domain to avoid blocked. Please note Lazada Detail Pages not Category pages. And must choose the right Lazada country for crawler to function properly. Designed for mass crawling with smallest resource and proxy | 0.00 | 28 |
-| [Groupon Scraper](https://apify.com/real_spidery/groupon-scraper?fpr=data) | Extract simple & full Groupon.com data to find great deals, coupons, discounts, promotion on all the best activities & things to do and save up to 70% on local restaurants, shopping, events & more. Export scraped data, run the scraper via API, schedule and monitor runs or integrate with other tools | 0.00 | 27 |
 | [Wix Product Parser](https://apify.com/street_protractor/wix-product-parser?fpr=data) | Scrape and download products from Wix websites. Use a single product page, one or multiple category pages, or scrape the entire site. Get uniform, structured product data easily. | 0.00 | 27 |
 | [Grab Food Restaurants Scraper \| All-In-One \| $4 / 1k](https://apify.com/fatihtahta/grab-food-restaurants-scraper?fpr=data) | Scrape restaurant data from Grab Food including names, addresses, ratings, promos, cuisines, and delivery times. Ideal for market mapping, analytics, or competitor tracking. Fast, structured, and reliable. $4 / 1k listings. | 0.00 | 26 |
 | [Noon Product Spider](https://apify.com/getdataforme/noon-product-spider?fpr=data) | The Noon Product Spider is an Apify Actor that scrapes detailed product data from Noon.com, including name, price, images, brand, offers, and ratings. Input product URLs and get structured JSON output for e-commerce monitoring, market research, or price comparison. Fast, reliable, and scalable. | 0.00 | 24 |

@@ -1,6 +1,6 @@
 # News
 
-**Total APIs: 682**
+**Total APIs: 683**
 
 | Title | Description | Rating | Total Users |
 | --- | --- | --- | --- |
@@ -643,6 +643,7 @@
 | [GoogleNewsAPI](https://apify.com/johnvc/GoogleNewsAPI?fpr=data) | Search and scrape news articles from Google News.  Fast.  Location-based searches, language filters, safe search, pagination control. Returns structured JSON data with article titles, links, sources, snippets, and publication dates. News monitoring, markets, and content aggregation. | 0.00 | 1 |
 | [Discord Channel Messages Scraper](https://apify.com/felt/apify-discord-scraper?fpr=data) | Scraping messages from Discord channels. | null | 1 |
 | [Aitrainingdatacollector](https://apify.com/kenneth256/aitrainingdatacollector?fpr=data) | # AI Training Data Collector  Automated scraper collecting text data from HackerNews, Reddit, and news sites. Search any topic, set limits, filter quality. Export as JSON/CSV. Collects 100-200 records per minute. Perfect for AI training datasets and research. | 0.00 | 1 |
+| [AI News API & Aggregator](https://apify.com/code-node-tools/ai-news-updates-api?fpr=data) | AI news API and aggregator. Get latest AI news today from 30+ sources including ArXiv, TechCrunch, Reddit, and research labs. Filter by keywords, categories, and time range. | null | 1 |
 | [Earnings Call Transcript & Sentiment Scraper](https://apify.com/royal_xenomorph/earnings-call-transcript-sentiment-scraper?fpr=data) | Turn any video into financial insights. The best free alternative to Yahoo Finance and Bloomberg API. Scrape earnings call transcripts and daily finance content, analyze sentiment with AI, and extract financial news in structured JSON. | 5.00 | 1 |
 | [Rss To Json Extractor](https://apify.com/simplifysme/rss-to-json-extractor?fpr=data) | 📰 Convert RSS and Atom feeds into structured JSON format for easy integration with your applications. Fast, reliable, and production-ready. | 0.00 | 1 |
 | [Lobbying Disclosure Search](https://apify.com/hanamira/lobbying-disclosure-search?fpr=data) | Search US Congressional lobbying filings. Find out who's lobbying Congress, how much they're spending, and on what issues. | null | 1 |
