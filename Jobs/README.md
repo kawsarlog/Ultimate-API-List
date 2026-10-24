@@ -2,7 +2,7 @@
 
 # Jobs
 
-<img src="https://img.shields.io/badge/APIs-8,448-blue?style=for-the-badge&logo=api" alt="Total APIs">
+<img src="https://img.shields.io/badge/APIs-8,449-blue?style=for-the-badge&logo=api" alt="Total APIs">
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <p align="right"><a href="../#-table-of-contents">Back to Categories</a></p>
 
-**8,448 APIs in this category**
+**8,449 APIs in this category**
 
 | API Name | Description | Rating | Total Users |
 |----------|-------------|--------|-------------|
@@ -1545,7 +1545,7 @@
 | [LinkedIn Hiring Signals: Companies Hiring for Any Role](https://apify.com/hydrafetch/linkedin-hiring-signals?fpr=data) | Find companies hiring for a role, like "VP Sales OR Chief Revenue Officer", across up to 10 locations, as one row per company: openings, titles, locations, newest posting, website, industry and siz... | 0.00 | 2 |
 | [Google Jobs Scraper - Salary, Apply Links & Dates, No Login](https://apify.com/cliqtomedia/google-jobs-scraper?fpr=data) | Scrape Google Jobs listings for your job searches: title, company, location, salary, job type, posting date, full description and direct apply links. Pick the city and country; deep mode finds more... | 0.00 | 1 |
 | [Work.ua Job Scraper: Ukraine Vacancies & Salary](https://apify.com/reventadata/workua-scraper?fpr=data) | Scrape Work.ua, Ukraine's job board, by keyword, city or category: vacancy title, employer, city, salary range in hryvnia as numbers, experience, schedule and posting date. Optional full descriptio... | 0.00 | 2 |
-| [Hacker News: Who is Hiring Jobs, Stories & Search](https://apify.com/kvozi/hacker-news-jobs-stories?fpr=data) | Monthly HN 'Who is hiring?' job posts parsed into company, remote flag and salary text, plus HN stories, comments and front-page lists, from the official Hacker News APIs. Filters and only-new mode. | 0.00 | 1 |
+| [Hacker News: Who is Hiring Jobs, Stories & Search](https://apify.com/kvozi/hacker-news-jobs-stories?fpr=data) | Monthly HN 'Who is hiring?' job posts parsed into company, remote flag and salary text, plus HN stories, comments and front-page lists, from the official Hacker News APIs. Filters and only-new mode. | 0.00 | 2 |
 | [Remote Jobs Scraper: Jobicy & We Work Remotely API](https://apify.com/adastra-connect/remote-jobs-aggregator?fpr=data) | Aggregate remote jobs from Jobicy and We Work Remotely with salary data, source attribution, deduplication and alerts for new jobs. | 0.00 | 2 |
 | [Jobs.ch Scraper: Swiss Job Postings, Workload & Salary Estimate](https://apify.com/getascraper/jobs-ch-scraper?fpr=data) | Scrape jobs.ch Stellenangebote (Swiss jobs) by keyword, canton, city, postal code, field, contract and workload %. Rows give company, address with coordinates and benefits. Optional full details ad... | 0.00 | 2 |
 | [Career Page Jobs Scraper (Greenhouse, Lever, Ashby, Workable)](https://apify.com/delgadolegacy/career-page-jobs-scraper?fpr=data) | Scrape all open jobs from company career pages on Greenhouse, Lever, Ashby & Workable into one clean dataset. Auto-detects the ATS from a URL or company name. Salary, remote, location, department, ... | 0.00 | 2 |
@@ -1563,6 +1563,7 @@
 | [Career Site Jobs Scraper – Workday, Greenhouse, Lever, Ashby](https://apify.com/rt-solutions/career-site-jobs-scraper?fpr=data) | Scrape job openings from any company career page: Workday, Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Recruitee, Personio, Breezy and BambooHR — auto-detected, one unified format, filters... | 0.00 | 2 |
 | [Google Jobs Scraper: Salaries, Apply Links & Full Descriptions](https://apify.com/roomy_tweet/google-jobs-scraper?fpr=data) | Scrape Google Jobs in 30 countries: title, company, salary (also read from the job text), date, job type, full description and direct apply links. Up to ~90 jobs per search, filters, multiple locat... | 0.00 | 2 |
 | [🚀 Seek Scraper · 5,000 Free Jobs/Month](https://apify.com/omkar-cloud/seek-scraper?fpr=data) | Seek Scraper gets you Seek Australia & New Zealand jobs ⚡ fast, 🎯 100% accurate and 🔍 ridiculously detailed — salaries, full ads, applicant counts & employer ratings. 💰 $1 per 1,000 jobs, no start ... | 0.00 | 1 |
+| [Career Site Jobs: Greenhouse, Lever, Ashby & more](https://apify.com/liora-tools/ats-career-site-jobs?fpr=data) | Get every open job from company career sites powered by Greenhouse, Lever, Ashby, Workable, SmartRecruiters and Recruitee through their official public job-board APIs. Normalized output, filters, s... | 0.00 | 1 |
 | [Oracle Taleo Jobs API \| US & Canada](https://apify.com/thejobsapi/taleo-jobs-api?fpr=data) | Search current job listings published through Oracle Taleo career sites in the US and Canada. Full descriptions and JSON/CSV export. $0.50/1,000 jobs, platform usage included. No separate API key. | 0.00 | 1 |
 | [Remote Jobs Scraper: Jobicy, Remote OK, Arbeitnow & ATS](https://apify.com/sysco32/remote-jobs-feed?fpr=data) | Remote jobs from Jobicy, Remote OK and Arbeitnow APIs plus remote roles straight from company career pages (Greenhouse, Lever, Ashby, Workday & 5 more). One clean schema, salary, dedupe, source att... | 0.00 | 1 |
 | [Hacker News 'Who is Hiring?' Jobs Parser](https://apify.com/liora-tools/hn-who-is-hiring?fpr=data) | Every job post from the monthly Hacker News 'Ask HN: Who is hiring?' threads, parsed into company, roles, location, remote / onsite, visa, salary and tech keywords. Official HN/Algolia APIs; email ... | 0.00 | 1 |

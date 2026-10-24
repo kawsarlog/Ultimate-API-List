@@ -2,7 +2,7 @@
 
 # SEO tools
 
-<img src="https://img.shields.io/badge/APIs-6,593-blue?style=for-the-badge&logo=api" alt="Total APIs">
+<img src="https://img.shields.io/badge/APIs-6,594-blue?style=for-the-badge&logo=api" alt="Total APIs">
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <p align="right"><a href="../#-table-of-contents">Back to Categories</a></p>
 
-**6,593 APIs in this category**
+**6,594 APIs in this category**
 
 | API Name | Description | Rating | Total Users |
 |----------|-------------|--------|-------------|
@@ -1411,6 +1411,7 @@
 | [Google Play Reviews Scraper — Ratings, Replies & Versions](https://apify.com/genial_candlestand/google-play-reviews-scraper?fpr=data) | Get Google Play app reviews: star rating, review text, author, date, helpful votes, app version and developer reply. Many apps per run by package name or URL, star and date filters, no login. $0.08... | 0.00 | 2 |
 | [Wikipedia Scraper: Articles, Full Text & Page Views](https://apify.com/pankajbhatia/wikipedia-scraper?fpr=data) | Get Wikipedia articles by title, URL or search in any language: summary, full plain text, Wikidata ID, image, categories, links and daily page views. Official Wikimedia APIs, no login. Great for re... | 0.00 | 2 |
 | [Bulk Lighthouse Audit: PageSpeed Scores & Core Web Vitals](https://apify.com/malmurk/bulk-lighthouse-audit?fpr=data) | Run Google Lighthouse on a list of URLs: performance, accessibility, best practices and SEO scores, Core Web Vitals (LCP, CLS, TBT, FCP) and the failing audits for each page, mobile or desktop. No ... | 0.00 | 2 |
+| [Website Tech Stack Detector (Wappalyzer alternative)](https://apify.com/liora-tools/tech-stack-detector?fpr=data) | Find out what any website is built with: CMS, e-commerce platform, frameworks, analytics, ads, CDN, hosting, payment, marketing and email tools. 7,600+ technology fingerprints with versions and cat... | 0.00 | 2 |
 | [Website Health Checker: Broken Links & SEO (Saúde do Site)](https://apify.com/kman-br/website-health-checker?fpr=data) | HTTP-only audit of a site you own: broken internal and external links, robots.txt, sitemap.xml, llms.txt and per-page title, meta description, canonical, robots meta, Open Graph, h1, lang and JSON-... | 0.00 | 2 |
 | [SEO Metadata Auditor for Crawled Datasets](https://apify.com/hiredhandai/seo-metadata-auditor?fpr=data) | Audit titles, meta descriptions, H1s, canonicals, thin content and URLs straight from a crawl dataset you already have. No re-crawl. | 0.00 | 2 |
 | [Google Images Scraper - Image URLs, Sizes & Source Pages](https://apify.com/cliqtomedia/google-images-scraper?fpr=data) | Scrape Google Images by keyword: full-size image URLs, width and height, thumbnails, titles, source pages and domains in Google's order. Country, language, size, type and color filters. Up to 300 i... | 0.00 | 1 |

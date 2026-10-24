@@ -2,7 +2,7 @@
 
 # Agents
 
-<img src="https://img.shields.io/badge/APIs-4,254-blue?style=for-the-badge&logo=api" alt="Total APIs">
+<img src="https://img.shields.io/badge/APIs-4,253-blue?style=for-the-badge&logo=api" alt="Total APIs">
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <p align="right"><a href="../#-table-of-contents">Back to Categories</a></p>
 
-**4,254 APIs in this category**
+**4,253 APIs in this category**
 
 | API Name | Description | Rating | Total Users |
 |----------|-------------|--------|-------------|
@@ -1107,7 +1107,6 @@
 | [YouTube Livestream & Channel Scraper - Videos, Likes & Stats](https://apify.com/tenfoldfleet/youtube-channel-scraper?fpr=data) | Get all videos and livestreams of a YouTube channel with exact views, likes, comment count and publish date, plus live streams and channel stats: subscribers, total views, video count, country, joi... | 0.00 | 2 |
 | [Google Maps Lead Qualifier — ICP lead score per place · $2/1k](https://apify.com/leoworks/google-maps-lead-qualifier?fpr=data) | Google Maps reviews toolkit by LeoWorks — lead scoring for ICP fit (score 0–100, tier A–D, reason). For reviews use leoworks/google-maps-review-classifier. icp text + places, datasetId or search te... | 5.00 | 2 |
 | [PDF to Markdown: Document Parser for Word, Excel, PPTX, EPUB](https://apify.com/nebulacolors/document-to-markdown?fpr=data) | Document to Markdown and PDF parser: PDF to Markdown, PDF to text and DOCX to Markdown for LLMs and RAG. Converts PDF, Word, Excel, PowerPoint, EPUB and HTML files from URLs, headings and tables ke... | 0.00 | 2 |
-| [iOS App Reviews Scraper - App Store Reviews, $0.10 per 1,000](https://apify.com/pennydata/appstore-reviews-rss?fpr=data) | Apple App Store scraper: iOS app reviews and ratings by app ID and country, plus an app details mode (name, developer, price, rating count, version, release notes) by app ID, bundle ID or search te... | 0.00 | 2 |
 | [RDAP & WHOIS Domain Lookup - Bulk Age, Expiry, Registrar](https://apify.com/pennydata/bulk-domain-whois-dns-lookup?fpr=data) | Domain checker for bulk RDAP and WHOIS lookups: registrar, expiry, domain age, nameservers, available vs registered. New email-dns mode checks MX provider, SPF and DMARC for email deliverability. N... | 0.00 | 2 |
 | [URL to PDF Converter & Screenshot API - $4 per 1,000 PDFs](https://apify.com/pennydata/shot-pdf?fpr=data) | URL to PDF converter for bulk lists and raw HTML: full-page PDF at $0.004 each (1,000 = $4), or PNG/JPEG screenshots at $0.0008. Lazy-loaded content, cookie-banner removal, viewport and delay. No l... | 0.00 | 2 |
 | [Website to Markdown: RAG Crawler, Firecrawl Alternative](https://apify.com/nebulacolors/website-content-markdown?fpr=data) | Website content crawler that turns pages into Markdown for RAG and LLMs: crawls from your start URLs and returns each page as clean Markdown with title, description and language, menus, footers, co... | 0.00 | 2 |
