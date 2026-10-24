@@ -4,13 +4,13 @@
 
 <img src="https://i.imgur.com/ThIjUnV.jpeg" alt="Ultimate API List Cover" style="max-width: 100%; height: auto;">
 
-**The most comprehensive collection of APIs on GitHub** - 75,955 ready-to-use APIs for building everything from simple automations to full-scale applications.
+**The most comprehensive collection of APIs on GitHub** - 75,956 ready-to-use APIs for building everything from simple automations to full-scale applications.
 
 ---
 
 ### Repository Stats
 
-<img src="https://img.shields.io/badge/APIs-75,955-blue?style=for-the-badge&logo=api" alt="Total APIs">
+<img src="https://img.shields.io/badge/APIs-75,956-blue?style=for-the-badge&logo=api" alt="Total APIs">
 <img src="https://img.shields.io/badge/Categories-17-green?style=for-the-badge&logo=tag" alt="Categories">
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=check-circle" alt="Status">
 <img src="https://img.shields.io/badge/Updated-Daily-brightgreen?style=for-the-badge&logo=clock" alt="Updated">
@@ -33,7 +33,7 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total APIs** | **75,955** |
+| **Total APIs** | **75,956** |
 | **Categories** | **17** |
 | **Last Updated** | 2026-10-24 |
 
@@ -43,7 +43,7 @@
 
 ## What Can You Build?
 
-This collection contains **75,955 ready-to-use APIs** that you can integrate directly into your applications. Whether you're building web scrapers, automating workflows, processing data, or creating AI-powered tools, these APIs provide the building blocks you need.
+This collection contains **75,956 ready-to-use APIs** that you can integrate directly into your applications. Whether you're building web scrapers, automating workflows, processing data, or creating AI-powered tools, these APIs provide the building blocks you need.
 
 **The possibilities are endless:**
 
@@ -71,7 +71,7 @@ This collection contains **75,955 ready-to-use APIs** that you can integrate dir
 - [Developer tools](./Developer_tools/) - 16,000 APIs
 - [Ecommerce](./Ecommerce/) - 16,000 APIs
 - [Integrations](./Integrations/) - 2,756 APIs
-- [Jobs](./Jobs/) - 8,447 APIs
+- [Jobs](./Jobs/) - 8,448 APIs
 - [Lead generation](./Lead_generation/) - 16,000 APIs
 - [MCP servers](./MCP_servers/) - 3,045 APIs
 - [News](./News/) - 5,183 APIs
@@ -139,7 +139,7 @@ This collection contains **75,955 ready-to-use APIs** that you can integrate dir
 
 <p align="right"><a href="#table-of-contents">Back to top</a></p>
 
-**8,447 APIs in this category** | [View all &rarr;](./Jobs/)
+**8,448 APIs in this category** | [View all &rarr;](./Jobs/)
 
 ---
 
@@ -225,6 +225,6 @@ This collection contains **75,955 ready-to-use APIs** that you can integrate dir
 
 <div align="center">
 
-**75,955 APIs** across **17 categories** - Updated daily
+**75,956 APIs** across **17 categories** - Updated daily
 
 </div>
